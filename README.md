@@ -10,5 +10,3 @@
 ```bash
 git clone https://MoYeRanQianZhi/AnythingCanDo
 ```
->>>>>>> 8ed6027 (feat(Agents): 增加 CLAUDE.md 和 AGENTS.md，以及README.md)
->>>>>>> 7ea583c (feat(Agent): 增加 CLAUDE.md 和 AGENTS.md，以及 README.md)
